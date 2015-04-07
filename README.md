@@ -1,6 +1,8 @@
 # apex-chartjs-sample
+Chart.js
+<a href="http://www.chartjs.org/">http://www.chartjs.org/</a>
 
-### Package URL
+Package URL
 <a href="https://login.salesforce.com/packaging/installPackage.apexp?p0=04ti0000000TcxJ">https://login.salesforce.com/packaging/installPackage.apexp?p0=04ti0000000TcxJ</a>
 
 ### Bar Chart
